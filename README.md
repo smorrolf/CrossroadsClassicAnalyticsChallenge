@@ -1,12 +1,10 @@
-<div style="display: flex; align-items: center; justify-content: center; gap: 15px; margin-top: 20px;">
+<h1>
   <img src="https://github.com/user-attachments/assets/3feee5b1-8565-4c03-a6f8-82c7b2358abb" 
        alt="Screenshot 2024-10-21 at 8 56 51 PM" 
-       width="100" 
-       style="border-radius: 10px;">
-  <h1 style="margin: 0;">Crossroad Classic Analytics Challenge</h1>
-</div>
-
-
+       width="50" 
+       style="vertical-align:middle; margin-right:10px;">
+  Crossroad Classic Analytics Challenge
+</h1>
 
 This repository showcases the **Crossroad Classic Analytics Challenge** project, where participants analyzed data provided by the **NCAA** to develop actionable insights. Our team built a **predictive model in Python** and visualized the results using **Tableau**, combining analytics, visualization, and presentation skills to solve data-driven challenges.
 
@@ -41,4 +39,4 @@ Explore our interactive dashboard here:[Tableau Dashboard](https://public.tablea
 ## About the Challenge
 The **Crossroad Classic Analytics Challenge** brings together data enthusiasts and professionals to tackle data problems using advanced analytics and creative visualization. This competition emphasizes **storytelling through data**, encouraging participants to derive actionable insights from complex datasets.
 
-[More about the competition:] (https://crossroadsclassicanalyticschallenge.com/17-2/)
+More about the competition: [Crossroads Classic Analytics Challenge](https://crossroadsclassicanalyticschallenge.com/17-2/)
