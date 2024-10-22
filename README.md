@@ -22,3 +22,5 @@ Sneak Peak:
 
 ## About the Challenge
 The Crossroad Classic Analytics Challenge brings together analysts to solve data-driven problems through visualization and insights.
+
+More about the competition: https://crossroadsclassicanalyticschallenge.com/17-2/
