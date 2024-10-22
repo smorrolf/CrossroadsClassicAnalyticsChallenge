@@ -1,11 +1,11 @@
 # Crossroad Classic Analytics Challenge
 
-This repository contains a Tableau dashboard created for the Crossroad Classic Analytics Challenge. The project focused on analyzing and visualizing data provided by NCAA. 
+This repository showcases the Crossroad Classic Analytics Challenge project, where participants analyzed data provided by the NCAA to develop actionable insights. Our team built a predictive model in Python and visualized the results using Tableau, combining analytics, visualization, and presentation skills to solve data-driven challenges.
 
 ## Tableau Dashboard
 
 The interactive Tableau dashboard highlights key findings and insights from the data. You can explore it here:
-https://public.tableau.com/app/profile/sarah.morrolf/viz/DataDawgsCrossroadsClassicAnalyticsChallenge/Dashboard
+[Tableau Public][https://public.tableau.com/app/profile/sarah.morrolf/viz/DataDawgsCrossroadsClassicAnalyticsChallenge/Dashboard]
 
 Sneak Peak: 
 <img width="937" alt="Screenshot 2024-10-21 at 8 36 59 PM" src="https://github.com/user-attachments/assets/6f8ae6dc-84a6-4c82-93b2-17c388a50314">
