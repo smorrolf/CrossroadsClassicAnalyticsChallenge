@@ -6,7 +6,7 @@
   Crossroad Classic Analytics Challenge
 </h1>
 
-This repository showcases the **Crossroad Classic Analytics Challenge** project, where participants analyzed data provided by the **NCAA** to develop actionable insights. Our team built a **predictive model in Python** and visualized the results using **Tableau**, combining analytics, visualization, and presentation skills to solve data-driven challenges.
+This repository showcases the **Crossroads Classic Analytics Challenge** project, where participants analyzed data provided by the **NCAA** to develop actionable insights. Our team built a **predictive model in Python** and visualized the results using **Tableau**, combining analytics, visualization, and presentation skills to solve data-driven challenges.
 
 ## Tableau Dashboard
 
@@ -37,6 +37,6 @@ Explore our interactive dashboard here:[Tableau Dashboard](https://public.tablea
 - **Tableau:** Created a dynamic dashboard to visualize findings and communicate insights effectively.
 
 ## About the Challenge
-The **Crossroad Classic Analytics Challenge** brings together data enthusiasts and professionals to tackle data problems using advanced analytics and creative visualization. This competition emphasizes **storytelling through data**, encouraging participants to derive actionable insights from complex datasets.
+The **Crossroads Classic Analytics Challenge** brings together data enthusiasts and professionals to tackle data problems using advanced analytics and creative visualization. This competition emphasizes **storytelling through data**, encouraging participants to derive actionable insights from complex datasets.
 
 More about the competition: [Crossroads Classic Analytics Challenge](https://crossroadsclassicanalyticschallenge.com/17-2/)
